@@ -61,3 +61,5 @@ The success of Prophet at Facebook and in the wider community underscores severa
 ## Conclusion
 
 Prophet stands as a milestone in forecasting, particularly in how it addresses the scale of people and problems. Its development showcases the importance of user-centric design in data science tools, emphasizing simplicity, flexibility, and democratization. Prophet is not just a tool for Facebook but a contribution to the broader data science community, encouraging more inclusive and accessible forecasting solutions.
+
+## 
